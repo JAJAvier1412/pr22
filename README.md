@@ -1,2 +1,1 @@
-# pr22
-PRO
+# solución-del-proyecto-recolectar-tesoros-2
